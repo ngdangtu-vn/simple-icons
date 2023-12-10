@@ -8117,6 +8117,11 @@
             "source": "https://www.lufthansa.com"
         },
         {
+            "title": "Lume",
+            "hex": "141B1F",
+            "source": "https://github.com/lumeland/lume.land/blob/a6cd0e643749a95dd6c85a43bc76fc19465c997c/_includes/templates/navbar.vto#L4"
+        },
+        {
             "title": "Lumen",
             "hex": "E74430",
             "source": "https://lumen.laravel.com"
